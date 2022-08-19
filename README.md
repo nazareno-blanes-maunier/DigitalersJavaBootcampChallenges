@@ -1,2 +1,4 @@
 # DigitalersJavaBootcampChallenges
-Primeros módulos de Java para no programadores
+Challenges del Java Bootcamp de Digit@lers - Telecom
+
+
