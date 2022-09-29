@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "..\\Mod21"
+		},
+		{
+			"name": "mod22",
+			"path": "mod22"
+		}
+	],
+	"settings": {
+		"java.configuration.updateBuildConfiguration": "automatic"
+	}
+}
